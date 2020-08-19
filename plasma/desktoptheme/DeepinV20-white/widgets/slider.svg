@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="slider.svg"
+   id="svg85"
+   version="1.1"
+   height="66"
+   width="76">
+  <sodipodi:namedview
+     inkscape:current-layer="svg85"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="20.498277"
+     inkscape:cx="44.999948"
+     inkscape:zoom="8.7424111"
+     showgrid="false"
+     id="namedview87"
+     inkscape:window-height="985"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="16"
+       cy="20"
+       cx="41"
+       id="radialGradient915">
+      <stop
+         id="stop4"
+         offset="0" />
+      <stop
+         id="stop6"
+         offset="1"
+         stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <g
+     stroke-width=".91667"
+     transform="matrix(.75 0 0 .75 -18.75 -3)"
+     id="vertical-slider-handle">
+    <rect
+       id="rect11"
+       opacity="0"
+       height="32"
+       width="32"
+       y="4"
+       x="25" />
+    <circle
+       id="circle13"
+       stroke-width="1.8333"
+       opacity=".05"
+       fill="url(#radialGradient915)"
+       r="16"
+       cy="20"
+       cx="41" />
+    <circle
+       id="circle15"
+       stroke-width="1.0694"
+       opacity=".1"
+       r="9.3333"
+       cy="20"
+       cx="41" />
+    <circle
+       id="circle17"
+       fill="#fff"
+       r="8"
+       cy="20"
+       cx="41" />
+  </g>
+  <g
+     stroke-width=".91667"
+     transform="matrix(.75 0 0 .75 6.25 -3)"
+     id="vertical-slider-hover">
+    <circle
+       id="circle20"
+       stroke-width=".91667"
+       opacity=".15"
+       fill="url(#radialGradient915)"
+       r="16"
+       cy="20"
+       cx="41" />
+    <rect
+       id="rect22"
+       opacity="0"
+       height="32"
+       width="32"
+       y="4"
+       x="25" />
+    <circle
+       id="circle24"
+       stroke-width=".53472"
+       opacity=".15"
+       r="9.3333"
+       cy="20"
+       cx="41" />
+    <circle
+       id="circle26"
+       fill="#fff"
+       r="8"
+       cy="20"
+       cx="41" />
+  </g>
+  <g
+     stroke-width=".91667"
+     transform="matrix(.75 0 0 .75 31.25 -3)"
+     id="vertical-slider-focus">
+    <circle
+       id="circle29"
+       stroke-width=".91667"
+       opacity=".2"
+       fill="url(#radialGradient915)"
+       r="16"
+       cy="20"
+       cx="41" />
+    <rect
+       id="rect31"
+       opacity="0"
+       height="32"
+       width="32"
+       y="4"
+       x="25" />
+    <circle
+       id="circle33"
+       stroke-width=".53472"
+       opacity=".15"
+       r="9.3333"
+       cy="20"
+       cx="41" />
+    <circle
+       id="circle35"
+       fill="#fff"
+       r="8"
+       cy="20"
+       cx="41" />
+  </g>
+  <g
+     id="groove-topleft">
+    <path
+       id="path38"
+       stroke-width="5.9416"
+       opacity=".13"
+       d="m7-24c-3.3644 0-6 2.6356-6 6h6z" />
+    <path
+       id="path40"
+       opacity=".06"
+       d="m7-24c-3.3644 0-6 2.6356-6 6h1c0-2.8037 2.1963-5 5-5v-1z" />
+  </g>
+  <rect
+     stroke-width="6"
+     fill="#4e9a06"
+     ry="12"
+     rx="0"
+     height="12"
+     width="12"
+     y="-24"
+     x="-14"
+     id="hint-tile-center" />
+  <path
+     stroke-width="1.732"
+     opacity=".13"
+     d="m7-18v1h3v-1z"
+     id="groove-center" />
+  <circle
+     fill="#ff2a2a"
+     r="12"
+     cy="-15"
+     cx="51"
+     id="hint-handle-size" />
+  <g
+     id="groove-highlight-top">
+    <path
+       id="path46"
+       stroke-width="4.2426"
+       opacity="0"
+       d="m23-24v6h3v-6z" />
+    <path
+       id="path48"
+       stroke-width="3.873"
+       fill="#fff"
+       d="m23-23v5h3v-5z" />
+  </g>
+  <g
+     id="groove-highlight-topleft">
+    <path
+       id="path51"
+       stroke-width="5.9416"
+       opacity="0"
+       d="m23-24c-3.3644 0-6 2.6356-6 6h6z" />
+    <path
+       id="path53"
+       stroke-width="4.9513"
+       fill="#fff"
+       d="m23-23c-2.8037 0-5 2.1963-5 5h5z" />
+  </g>
+  <path
+     stroke-width="1.732"
+     fill="#fff"
+     d="m23-18v1h3v-1z"
+     id="groove-highlight-center" />
+  <g
+     id="groove-highlight-left">
+    <path
+       id="path57"
+       stroke-width="2.4494"
+       opacity="0"
+       d="m17-18v1h6v-1z" />
+    <path
+       id="path59"
+       stroke-width="2.236"
+       fill="#fff"
+       d="m18-18v1h5v-1z" />
+  </g>
+  <g
+     id="groove-top">
+    <path
+       id="path62"
+       stroke-width="4.2426"
+       opacity=".13"
+       d="m7-24v6h3v-6z" />
+    <path
+       id="path64"
+       stroke-width="1.732"
+       opacity=".06"
+       d="m7-24v1h3v-1z" />
+  </g>
+  <use
+     xlink:href="#groove-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,17,0)"
+     id="groove-topright" />
+  <g
+     id="groove-left">
+    <path
+       id="path68"
+       stroke-width="2.4494"
+       opacity=".13"
+       d="m1-18v1h6v-1z" />
+    <path
+       id="path70"
+       stroke-width=".99997"
+       opacity=".06"
+       d="m1-18v1h1v-1z" />
+  </g>
+  <use
+     xlink:href="#groove-left"
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,17,0)"
+     id="groove-right" />
+  <use
+     xlink:href="#groove-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(1,0,0,-1,0,-35)"
+     id="groove-bottomleft" />
+  <use
+     xlink:href="#groove-topleft"
+     height="100%"
+     width="100%"
+     transform="rotate(180,8.5,-17.5)"
+     id="groove-bottomright" />
+  <use
+     xlink:href="#groove-top"
+     height="100%"
+     width="100%"
+     transform="matrix(1,0,0,-1,0,-35)"
+     id="groove-bottom" />
+  <use
+     xlink:href="#groove-highlight-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,49,0)"
+     id="groove-highlight-topright" />
+  <use
+     xlink:href="#groove-highlight-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(1,0,0,-1,0,-35)"
+     id="groove-highlight-bottomleft" />
+  <use
+     xlink:href="#groove-highlight-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(0,-1,-1,0,8,6)"
+     id="groove-highlight-bottomright" />
+  <use
+     xlink:href="#groove-highlight-top"
+     height="100%"
+     width="100%"
+     transform="matrix(1,0,0,-1,0,-35)"
+     id="groove-highlight-bottom" />
+  <use
+     xlink:href="#groove-highlight-left"
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,49,0)"
+     id="groove-highlight-right" />
+  <use
+     xlink:href="#vertical-slider-handle"
+     height="100%"
+     width="100%"
+     transform="translate(0,30)"
+     id="horizontal-slider-handle" />
+  <use
+     xlink:href="#vertical-slider-hover"
+     height="100%"
+     width="100%"
+     transform="translate(0,30)"
+     id="horizontal-slider-hover" />
+  <use
+     xlink:href="#vertical-slider-focus"
+     height="100%"
+     width="100%"
+     transform="translate(0,30)"
+     id="horizontal-slider-focus" />
+</svg>
