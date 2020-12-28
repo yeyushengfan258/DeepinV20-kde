@@ -19,7 +19,7 @@ CONTAINER:=centos8
 
 all: clean
 	mkdir --parents $(PWD)/build
-	rpmbuild --quiet -bb $(PWD)/project.spec --build-in-place --buildroot=$(PWD)/build --define \"_rpmdir $(PWD)\"
+	rpmbuild -bb $(PWD)/project.spec --build-in-place --buildroot=$(PWD)/build --define "_rpmdir $(PWD)"
 
 docker_init:
 	docker build -t $(CONTAINER) $(PWD)
