@@ -16,25 +16,43 @@
 # 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 PWD:=$(shell pwd)
 CONTAINER:=centos8
+# If the first argument is "run"...
+ifeq (docker_run,$(firstword $(MAKECMDGOALS)))
+  # use the rest as arguments for "run"
+  RUN_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+  # ...and turn them into do-nothing targets
+  $(eval $(RUN_ARGS):;@:)
+endif
 
 all: clean
 	mkdir --parents $(PWD)/build
-	rpmbuild -bb $(PWD)/project.spec --build-in-place --buildroot=$(PWD)/build --define "_rpmdir $(PWD)"
+	rpmbuild -bb $(PWD)/project.spec \
+		--build-in-place \
+		--buildroot=$(PWD)/build \
+		--define "_rpmdir $(PWD)"
 
 docker_init:
 	docker build -t $(CONTAINER) $(PWD)
 
 docker_build: clean
 	mkdir --parents $(PWD)/build
-	docker run --volume `pwd`:$(PWD) --rm -ti $(CONTAINER) /bin/bash -c \
-		"cd $(PWD) && rpmbuild --quiet -bb $(shell pwd)/project.spec --build-in-place --buildroot=$(shell pwd)/build --define \"_rpmdir $(shell pwd)\""
+	docker run --volume $(PWD):$(PWD) --rm -ti $(CONTAINER) /bin/bash -c \
+		"cd $(PWD) && rpmbuild -bb $(PWD)/project.spec \
+						--build-in-place \
+						--buildroot=$(PWD)/build \
+						--define \"_rpmdir $(PWD)\""
 
+# With this command you can easily switch to the 
+# container shell in the current terminal
 docker_shell:
-	docker run --volume `pwd`:$(PWD) --rm -ti $(CONTAINER)
+	docker run --volume $(PWD):$(PWD) --rm -ti $(CONTAINER)
 
+# With this command you can run any command
+# in the container and get the response in 
+# the current terminal session
 docker_run:
-	echo "$(RUN_ARGS)"
-	docker run --volume `pwd`:$(PWD) --rm -ti $(CONTAINER) /bin/bash -c $(RUN_ARGS)
+	@docker run --volume $(PWD):$(PWD) --rm -ti $(CONTAINER) /bin/bash -c \
+			"cd $(PWD) && $(RUN_ARGS)"
 
 clean:	
 	rm -rf $(PWD)/build

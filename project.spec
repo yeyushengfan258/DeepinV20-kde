@@ -52,11 +52,11 @@ install -d $RPM_BUILD_ROOT%{DIR_SDDM}
 
 cp --recursive ./aurorae/*                            $RPM_BUILD_ROOT%{AURORAE_DIR}
 cp --recursive ./color-schemes/*.colors               $RPM_BUILD_ROOT%{SCHEMES_DIR}
-cp --recursive ./plasma/desktoptheme/DeepinV20-*/*    $RPM_BUILD_ROOT%{PLASMA_DIR}
+cp --recursive ./plasma/desktoptheme/DeepinV20-*      $RPM_BUILD_ROOT%{PLASMA_DIR}
 cp --recursive ./plasma/look-and-feel/*               $RPM_BUILD_ROOT%{LOOKFEEL_DIR}
 cp --recursive ./wallpaper/*                          $RPM_BUILD_ROOT%{WALLPAPER_DIR}
 cp --recursive ./Kvantum/*                            $RPM_BUILD_ROOT%{KVANTUM_DIR}
-cp --recursive ./sddm/DeepinV20-*/*                   $RPM_BUILD_ROOT%{DIR_SDDM}
+cp --recursive ./sddm/DeepinV20-*                     $RPM_BUILD_ROOT%{DIR_SDDM}
 
 %files 
 %defattr(644,root,root,755)
