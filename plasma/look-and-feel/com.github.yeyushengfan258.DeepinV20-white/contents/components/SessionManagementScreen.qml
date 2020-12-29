@@ -80,13 +80,20 @@ Item {
     //ui is constrained to 16 grid units wide, or the screen
     ColumnLayout {
         id: prompts
-        anchors.top: parent.verticalCenter
-        anchors.topMargin: units.gridUnit * 0.5
-        anchors.left: parent.left
-        anchors.right: parent.right
-        anchors.bottom: parent.bottom
+        anchors {
+            top: parent.verticalCenter
+            topMargin: units.gridUnit * 0.5
+            left: parent.left
+            right: parent.right
+            bottom: parent.bottom
+        }
+
         PlasmaComponents.Label {
             id: notificationsLabel
+            anchors {
+                top: root.top
+            }
+            
             color: "white"
             font.pointSize: Math.max(fontSize + 1,theme.defaultFont.pointSize + 1)
             Layout.maximumWidth: units.gridUnit * 16

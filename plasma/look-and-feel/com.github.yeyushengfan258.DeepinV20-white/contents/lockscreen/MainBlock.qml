@@ -73,7 +73,7 @@ SessionManagementScreen {
             horizontalAlignment: Text.AlignLeft
             verticalAlignment: Text.AlignVTop
             anchors {
-                verticalCenter: parent.top 
+                top: parent.top 
                 left: parent.left
             }
 
