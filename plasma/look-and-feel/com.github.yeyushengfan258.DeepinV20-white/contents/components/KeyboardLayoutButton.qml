@@ -21,25 +21,25 @@ import QtQuick 2.1
 import QtQuick.Controls 1.1 as QQC
 
 import org.kde.plasma.components 2.0 as PlasmaComponents
+import QtQuick.Controls.Styles.Plasma 2.0 as Styles
 
 import org.kde.plasma.workspace.keyboardlayout 1.0
 
-PlasmaComponents.ToolButton {
-
-    property int fontSize: config.fontSize
-
+SecondaryButton {
     id: kbLayoutButton
 
-    iconName: "input-keyboard"
+    font.pointSize: theme.defaultFont.pointSize + 1
+    enabled: true
+    text: " " + layout.currentLayoutDisplayName + " "
+    textColor: "white"
+
     implicitWidth: minimumWidth
-    text: layout.currentLayoutDisplayName
-    font.pointSize: Math.max(fontSize,theme.defaultFont.pointSize)
 
     Accessible.name: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "Button to change keyboard layout", "Switch layout")
 
     visible: layout.layouts.length > 1
 
-    onClicked: layout.nextLayout()
+    action: layout.nextLayout
 
     KeyboardLayout {
           id: layout

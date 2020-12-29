@@ -29,30 +29,38 @@ Item {
     property alias containsMouse: mouseArea.containsMouse
     property alias font: label.font
     readonly property bool softwareRendering: GraphicsInfo.api === GraphicsInfo.Software
+
+    implicitWidth: units.gridUnit * 5
+    implicitHeight: label.implicitHeight
+
     signal clicked
+
+
+
+    property var action
+    onClicked: action()
 
     activeFocusOnTab: true
 
-    opacity: activeFocus || containsMouse ? 1 : 0.85
-        Behavior on opacity {
-            PropertyAnimation { // OpacityAnimator makes it turn black at random intervals
-                duration: units.longDuration * 2
-                easing.type: Easing.InOutQuad
-            }
-    }
-
     Rectangle {
         id: backgroundRect
-
         anchors {
             horizontalCenter: parent.horizontalCenter
             verticalCenter: parent.verticalCenter
         }
-        radius: 100
-        width: label.font.pointSize * 8
-        height: label.font.pointSize * 3
+
+        opacity: activeFocus || containsMouse ? 0.35: 0
+            Behavior on opacity {
+                PropertyAnimation { // OpacityAnimator makes it turn black at random intervals
+                    duration: units.longDuration * 2
+                    easing.type: Easing.InOutQuad
+                }
+        }
+
+        radius: 5
+        implicitWidth: root.implicitWidth
+        height: root.implicitHeight
         color: "white"
-        opacity: 0.35
     }
 
 
