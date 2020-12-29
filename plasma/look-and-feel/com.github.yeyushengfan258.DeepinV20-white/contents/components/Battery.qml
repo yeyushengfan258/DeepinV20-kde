@@ -23,8 +23,8 @@ import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.components 2.0 as PlasmaComponents
 import org.kde.plasma.workspace.components 2.0 as PW
 
-Row {
-    spacing: units.smallSpacing
+SecondaryButton {
+
     visible: pmSource.data["Battery"]["Has Cumulative"]
 
     PlasmaCore.DataSource {
@@ -33,13 +33,8 @@ Row {
         connectedSources: ["Battery", "AC Adapter"]
     }
 
+    text: " " + i18nd("plasma_lookandfeel_org.kde.lookandfeel","%1%", pmSource.data["Battery"]["Percent"] || 0) + " "
+    Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Battery at %1%", pmSource.data["Battery"]["Percent"] || 0)
+    textColor: "white"
 
-    PlasmaComponents.Label {
-        id: batteryLabel
-        font.pointSize: config.fontSize
-        height: undefined
-        text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","%1%", pmSource.data["Battery"]["Percent"] || 0)
-        Accessible.name: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Battery at %1%", pmSource.data["Battery"]["Percent"] || 0)
-        color: "white"
-    }
 }

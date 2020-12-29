@@ -21,12 +21,16 @@ import QtQuick 2.8
 import QtQuick.Controls 1.1
 import QtQuick.Layouts 1.1
 import QtGraphicalEffects 1.0
+import QtQuick.Controls 1.1 as QQC
+import QtQuick.Controls.Styles.Plasma 2.0 as Styles
 
 import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.components 3.0 as PlasmaComponents3
 import org.kde.plasma.components 2.0 as PlasmaComponents
 
 import org.kde.plasma.private.sessions 2.0
+import org.kde.plasma.workspace.keyboardlayout 1.0
+
 import "../components"
 
 PlasmaCore.ColorScope {
@@ -233,15 +237,31 @@ PlasmaCore.ColorScope {
                 }
 
                 actionItems: [
-                    Image {
-                        id: loginButton
-                        source: "../assets/switch_primary.svgz"
-                        smooth: true            
-                        opacity: 1
-                        sourceSize: Qt.size(80, 80)
-                        MouseArea {
-                            anchors.fill: parent
-                            onClicked: {
+
+                    ActionButton {
+                        iconSource: "../assets/keyboard.svg"
+                        text: layout.currentLayoutDisplayName
+                        textColor: "white"
+                        enabled: layout.layouts.length > 1
+                        visible: layout.layouts.length > 1
+                        anchors { verticalCenter: parent.top }            
+                        onClicked: {
+                            var layouts = layout.layouts;
+                            var index = (layouts.indexOf(layout.currentLayout)+1) % layouts.length;
+                            layout.currentLayout = layouts[index];
+                        }
+
+                        KeyboardLayout {
+                            id: layout
+                        }                        
+                    },
+
+
+                    ActionButton {
+                        iconSource: "../assets/switch_primary.svgz"
+                        text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "For switching to a username and password prompt", "Other...")
+                        textColor: "white"
+                        onClicked: {
                                 // If there are no existing sessions to switch to, create a new one instead
                                 if (((sessionsModel.showNewSessionEntry && sessionsModel.count === 1) ||
                                 (!sessionsModel.showNewSessionEntry && sessionsModel.count === 0)) &&
@@ -252,10 +272,10 @@ PlasmaCore.ColorScope {
                                 } else {
                                     mainStack.push(switchSessionPage)
                                 }
-                            }
                         }
+                        enabled: sessionsModel.canStartNewSession && sessionsModel.canSwitchUser
                         visible: sessionsModel.canStartNewSession && sessionsModel.canSwitchUser
-                        anchors { verticalCenter: parent.top }                        
+                        anchors { verticalCenter: parent.top }            
                     }
                 ]
 
@@ -468,6 +488,7 @@ PlasmaCore.ColorScope {
                     RowLayout {
                         Layout.fillWidth: true
 
+
                         PlasmaComponents3.Label {
                             id: switchToOther
                             Layout.fillWidth: true
@@ -506,17 +527,15 @@ PlasmaCore.ColorScope {
 
                 actionItems: [
                     
-                    Image {
-                        id: backButton
-                        source: "../assets/back.svgz"
-                        smooth: true            
-                        opacity: 1
-                        sourceSize: Qt.size(80, 80)
-                        MouseArea {
-                            anchors.fill: parent
-                            onClicked: mainStack.pop()
-                        }
-                        anchors { verticalCenter: parent.top }                        
+
+                    ActionButton {
+                        iconSource: "../assets/back.svgz"
+                        text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "For switching to a username and password prompt", "Back")
+                        textColor: "white"
+                        onClicked: mainStack.pop()
+                        enabled: true
+                        visible: true
+                        anchors { verticalCenter: parent.top }            
                     }
                 ]
             }
@@ -541,22 +560,28 @@ PlasmaCore.ColorScope {
                 margins: units.smallSpacing
             }
 
-            PlasmaComponents3.ToolButton {
+            KeyboardLayoutButton {
+                id: keyboardVirtual
+                implicitWidth: units.gridUnit * 7
+
                 text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "Button to show/hide virtual keyboard", "Virtual Keyboard")
-                icon.name: inputPanel.keyboardActive ? "input-keyboard-virtual-on" : "input-keyboard-virtual-off"
-                onClicked: inputPanel.showHide()
+                action: inputPanel.showHide
+                anchors {
+                    bottom: parent.bottom
+                    left: parent.left
+                }
 
                 visible: inputPanel.status == Loader.Ready
-            }
-
-            KeyboardLayoutButton {
             }
 
             Item {
                 Layout.fillWidth: true
             }
 
-            Battery {}
+            Battery {
+                id: batteryLevel
+                implicitWidth: units.gridUnit * 2
+            }
         }
     }
 

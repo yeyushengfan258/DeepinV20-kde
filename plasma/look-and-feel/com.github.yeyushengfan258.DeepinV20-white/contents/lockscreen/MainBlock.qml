@@ -64,18 +64,22 @@ SessionManagementScreen {
             Layout.minimumHeight: 32
             implicitHeight: usernameFontSize * 2.85
             font.pointSize: config.fontSize + 1
-            opacity: passwordFieldOutlined ? 1.0 : 0.5
+            opacity: 0.5
             font.family: config.Font || "Noto Sans"
             placeholderText: config.PasswordFieldPlaceholderText == "Password" ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password") : config.PasswordFieldPlaceholderText
             focus: !showUsernamePrompt || lastUserName
             echoMode: TextInput.Password
             revealPasswordButtonShown: hidePasswordRevealIcon
-            anchors.verticalCenter: parent.verticalCenter 
-            anchors.left: parent.left
+            horizontalAlignment: Text.AlignLeft
+            verticalAlignment: Text.AlignVTop
+            anchors {
+                verticalCenter: parent.top 
+                left: parent.left
+            }
 
             style: TextFieldStyle {
-                textColor: passwordFieldOutlined ? "white" : "black"
-                placeholderTextColor: passwordFieldOutlined ? "white" : "white"
+                textColor: "black"
+                placeholderTextColor: "black"
                 passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
                 background: Rectangle {
                     radius: 100

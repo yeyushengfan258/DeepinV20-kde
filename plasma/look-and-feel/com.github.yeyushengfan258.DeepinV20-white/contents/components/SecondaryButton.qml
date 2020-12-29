@@ -1,5 +1,5 @@
 /*
- *   Copyright 2016 David Edmundson <davidedmundson@kde.org>
+ *   Copyright 2020 Alex Woroschilow <alex.woroschilow@gmail.com>
  *
  *   This program is free software; you can redistribute it and/or modify
  *   it under the terms of the GNU Library General Public License as
@@ -25,86 +25,56 @@ Item {
     id: root
     property alias text: label.text
     property alias textColor: label.color
-    
-    property alias iconSource: icon.source
+
     property alias containsMouse: mouseArea.containsMouse
     property alias font: label.font
-    property alias labelRendering: label.renderType
-    property alias circleOpacity: iconCircle.opacity
-    property alias circleVisiblity: iconCircle.visible
     readonly property bool softwareRendering: GraphicsInfo.api === GraphicsInfo.Software
+
+    implicitWidth: units.gridUnit * 5
+    implicitHeight: label.implicitHeight
+
     signal clicked
+
+
+
+    property var action
+    onClicked: action()
 
     activeFocusOnTab: true
 
-    property int iconSize: units.gridUnit * 3
-
-    implicitWidth: Math.max(iconSize + units.largeSpacing * 2, label.contentWidth)
-    implicitHeight: iconSize + units.smallSpacing + label.implicitHeight
-
-    opacity: activeFocus || containsMouse ? 1 : 0.85
-        Behavior on opacity {
-            PropertyAnimation { // OpacityAnimator makes it turn black at random intervals
-                duration: units.longDuration * 2
-                easing.type: Easing.InOutQuad
-            }
-    }
-
     Rectangle {
-        id: iconCircle
-        anchors.centerIn: icon
-        width: iconSize + units.smallSpacing
-        height: width
-        radius: width / 2
-        color: "white"
-        opacity: activeFocus || containsMouse ? (softwareRendering ? 0.8 : 0.15) : (softwareRendering ? 0.6 : 0)
-        Behavior on opacity {
+        id: backgroundRect
+        anchors {
+            horizontalCenter: parent.horizontalCenter
+            verticalCenter: parent.verticalCenter
+        }
+
+        opacity: activeFocus || containsMouse ? 0.35: 0
+            Behavior on opacity {
                 PropertyAnimation { // OpacityAnimator makes it turn black at random intervals
-                    duration: units.longDuration * 3
+                    duration: units.longDuration * 2
                     easing.type: Easing.InOutQuad
                 }
         }
-    }
 
-    Rectangle {
-        anchors.centerIn: iconCircle
-        width: iconCircle.width
-        height: width
-        radius: width / 2
-        scale: mouseArea.containsPress ? 1 : 0
+        radius: 5
+        implicitWidth: root.implicitWidth
+        height: root.implicitHeight
         color: "white"
-        opacity: 0.15
-        Behavior on scale {
-                PropertyAnimation {
-                    duration: units.shortDuration
-                    easing.type: Easing.InOutQuart
-                }
-        }
     }
 
-    Image {
-        id: icon
-        anchors {
-            top: parent.top
-            horizontalCenter: parent.horizontalCenter
-        }
-        width: iconSize
-        height: iconSize
-    }
 
     PlasmaComponents.Label {
         id: label
         font.pointSize: theme.defaultFont.pointSize + 1
         anchors {
-            top: icon.bottom
-            topMargin: (softwareRendering ? 1.5 : 1) * units.smallSpacing
-            left: parent.left
-            right: parent.right
+            horizontalCenter: backgroundRect.horizontalCenter
+            verticalCenter: backgroundRect.verticalCenter
         }
         style: softwareRendering ? Text.Outline : Text.Normal
         styleColor: softwareRendering ? PlasmaCore.ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
         horizontalAlignment: Text.AlignHCenter
-        verticalAlignment: Text.AlignTop
+        verticalAlignment: Text.AlignVCenter
         wrapMode: Text.WordWrap
         font.underline: root.activeFocus
     }

@@ -31,14 +31,13 @@ Item {
 
     property bool isCurrent: true
 
-    readonly property var m: model
     property string name
     property string userName
     property string avatarPath
     property string iconSource
     property bool constrainText: true
     property alias nameFontSize: usernameDelegate.font.pointSize
-    property int fontSize: config.fontSize
+    property alias nameFontColor: usernameDelegate.color
     signal clicked()
 
     property real faceSize: Math.min(width, height - usernameDelegate.height - units.smallSpacing)
@@ -162,7 +161,7 @@ Item {
 
     PlasmaComponents.Label {
         id: usernameDelegate
-        font.pointSize: Math.max(fontSize + 6,theme.defaultFont.pointSize + 6)
+        font.pointSize: theme.defaultFont.pointSize + 6
         anchors {
             bottom: parent.bottom
             horizontalCenter: parent.horizontalCenter
