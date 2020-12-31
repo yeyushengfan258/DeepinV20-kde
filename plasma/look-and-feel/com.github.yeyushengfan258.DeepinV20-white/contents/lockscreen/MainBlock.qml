@@ -38,6 +38,7 @@ SessionManagementScreen {
     //the y position that should be ensured visible when the on screen keyboard is visible
     property int visibleBoundary: mapFromItem(loginButton, 0, 0).y
     onHeightChanged: visibleBoundary = mapFromItem(loginButton, 0, 0).y + loginButton.height + units.smallSpacing
+    property bool passwordFieldOutlined: config.PasswordFieldOutlined == "true"    
     /*
      * Login has been requested with the following username and password
      * If username field is visible, it will be taken from that, otherwise from the "name" property of the currentIndex
@@ -63,8 +64,8 @@ SessionManagementScreen {
             Layout.fillWidth: true
             Layout.minimumHeight: 32
             implicitHeight: usernameFontSize * 2.85
-            font.pointSize: config.fontSize + 1
-            opacity: 0.5
+            font.pointSize: usernameFontSize * 0.8
+            opacity: passwordFieldOutlined ? 1.0 : 0.5
             font.family: config.Font || "Noto Sans"
             placeholderText: config.PasswordFieldPlaceholderText == "Password" ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password") : config.PasswordFieldPlaceholderText
             focus: !showUsernamePrompt || lastUserName
@@ -72,10 +73,7 @@ SessionManagementScreen {
             revealPasswordButtonShown: hidePasswordRevealIcon
             horizontalAlignment: Text.AlignLeft
             verticalAlignment: Text.AlignVTop
-            anchors {
-                top: parent.top 
-                left: parent.left
-            }
+            anchors.fill: parent
 
             style: TextFieldStyle {
                 textColor: "black"
@@ -113,6 +111,15 @@ SessionManagementScreen {
                 }
             }
 
+            Keys.onReleased: {
+                if (loginButton.opacity == 0 && length > 0) {
+                    showLoginButton.start()
+                }
+                if (loginButton.opacity > 0 && length == 0) {
+                    hideLoginButton.start()
+                }
+            }
+
             Connections {
                 target: root
                 function onClearPassword() {
@@ -132,12 +139,27 @@ SessionManagementScreen {
                 left: passwordBox.right
                 verticalCenter: passwordBox.verticalCenter
             }
-            anchors.leftMargin: 8   
-            opacity: 1
+            anchors.leftMargin: 8
+            visible: opacity > 0
+            opacity: 0
             MouseArea {
                 anchors.fill: parent
                 onClicked: startLogin();
             }
+            PropertyAnimation {
+                id: showLoginButton
+                target: loginButton
+                properties: "opacity"
+                to: 0.75
+                duration: 100
+            }
+            PropertyAnimation {
+                id: hideLoginButton
+                target: loginButton
+                properties: "opacity"
+                to: 0
+                duration: 80
+            }            
         }
     }
 }
