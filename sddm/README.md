@@ -1,5 +1,5 @@
 
-DeepinV20-white sddm theme for KDE Plasma desktop.
+DeepinV20 sddm theme for KDE Plasma desktop.
 
 ## Installation
 

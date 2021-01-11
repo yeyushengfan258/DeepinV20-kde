@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg3869"
+   height="22"
+   width="22"
+   sodipodi:docname="kalarm.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview17"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-13.048169"
+     inkscape:cy="-10.004279"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3869">
+    <inkscape:grid
+       type="xygrid"
+       id="grid882" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3871">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+  <g
+     id="kalarm">
+    <rect
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       id="rect990"
+       width="21.994965"
+       height="21.994965"
+       x="0.0025177002"
+       y="-21.997482"
+       ry="6"
+       transform="rotate(90)" />
+    <rect
+       y="-1.7382812e-05"
+       x="0"
+       height="22"
+       width="22"
+       id="rect4178"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 11,3 A 1.5,1.5 0 0 0 9.5,4.5 1.5,1.5 0 0 0 9.66797,5.18555 5,5 0 0 0 6,10 3.5,6 0 0 1 3,15.93164 v 1.02149 0.0469 h 11.08789 a 1.5,1.5 0 0 0 -0.0879,0.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -0.0879,-0.5 h 2.08789 v -0.0469 -1.02148 A 3.5,6 0 0 1 15.99998,10 5,5 0 0 0 12.33396,5.18164 1.5,1.5 0 0 0 12.49998,4.5 1.5,1.5 0 0 0 10.99998,3 Z m 0,3 a 4,4 0 0 1 4,4 4.5,7 0 0 0 2.19531,6 H 4.80469 A 4.5,7 0 0 0 7,10 4,4 0 0 1 11,6 Z"
+       id="path4183" />
+  </g>
+  <g
+     id="kalarm-disabled">
+    <rect
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       id="rect918"
+       width="21.994965"
+       height="21.994965"
+       x="0"
+       y="-43.994965"
+       ry="6"
+       transform="rotate(90)" />
+    <rect
+       y="-1.7382812e-05"
+       x="22"
+       height="22"
+       width="22"
+       id="rect4178-6"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4183-7"
+       class="ColorScheme-Text"
+       d="M 33,3 A 1.5,1.5 0 0 0 31.5,4.5 1.5,1.5 0 0 0 31.667969,5.1855469 5,5 0 0 0 28,10 3.5,6 0 0 1 25,15.931641 V 16.953125 17 H 35 V 16 H 26.804688 A 4.5,7 0 0 0 29,10 a 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 4.5,7 0 0 0 0.443359,3 h 1.029297 A 3.5,6 0 0 1 38,10 5,5 0 0 0 34.333984,5.1816406 1.5,1.5 0 0 0 34.5,4.5 1.5,1.5 0 0 0 33,3 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       id="rect4145"
+       d="m 36,14 v 6 h 2 v -6 z m 3,0 v 6 h 2 v -6 z"
+       class="ColorScheme-Text"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="kalarm-partdisabled">
+    <rect
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       id="rect929"
+       width="21.994965"
+       height="21.994965"
+       x="0.0050354004"
+       y="-66"
+       ry="6"
+       transform="rotate(90)" />
+    <rect
+       y="-1.7382812e-05"
+       x="44"
+       height="22"
+       width="22"
+       id="rect4178-6-3"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path17"
+       class="ColorScheme-Text"
+       d="m 55,3 c -0.828427,0 -1.5,0.6715729 -1.5,1.5 6.63e-4,0.2386231 0.05825,0.4736447 0.167969,0.6855469 C 51.502537,5.78406 50.00218,7.7533785 50,10 c -0.002,2.980008 -1.27949,5.505927 -3,5.931641 v 1.021484 0.04687 h 10 v -1 H 48.804688 C 50.163678,14.73945 50.997227,12.46128 51,10 c 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 0.0029,1.038786 0.154304,2.063561 0.443359,3 h 1.029297 C 60.164158,12.088507 60.001138,11.053804 60,10 59.999818,7.7524797 58.500038,5.7812718 56.333984,5.1816406 56.442427,4.9707447 56.499322,4.7371423 56.5,4.5 56.5,3.6715729 55.828427,3 55,3 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       id="path19"
+       d="m 58,14 v 6 h 5 v -6 z"
+       class="ColorScheme-Text"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

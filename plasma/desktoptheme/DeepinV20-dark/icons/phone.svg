@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="22"
+   width="22"
+   sodipodi:docname="phone.svg"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg49">
+  <sodipodi:namedview
+     inkscape:current-layer="svg49"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="-1.6250641"
+     inkscape:cx="-5.460494"
+     inkscape:zoom="4"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     showgrid="true"
+     id="namedview31"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8">
+    <inkscape:grid
+       id="grid1024"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata53">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <g
+     id="phone"
+     transform="translate(-383.85742,-535.36)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <path
+       class="ColorScheme-Text"
+       d="m 331,531.36 c -1.108,0 -2,0.89199 -2,2 v 24 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.89199 2,-2 v -24 c 0,-1.108 -0.892,-2 -2,-2 h -9.6523 z m 0,1 h 2.4922 l 0.49023,0.65234 c 0.11592,0.15381 0.15505,0.34766 0.34766,0.34766 h 5.3398 c 0.19261,0 0.23174,-0.19385 0.34766,-0.34766 l 0.49023,-0.65234 h 2.4922 c 0.554,0 1,0.446 1,1 v 24 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -24 c 0,-0.554 0.446,-1 1,-1 z"
+       fill="currentColor"
+       id="path5" />
+    <rect
+       x="321"
+       y="529.35999"
+       width="32"
+       height="32"
+       fill="none"
+       id="rect7" />
+    <rect
+       class="ColorScheme-Text"
+       x="333"
+       y="556.35999"
+       width="8"
+       height="1"
+       ry="0.5"
+       fill="currentColor"
+       opacity="0.5"
+       id="rect9" />
+  </g>
+  <g
+     id="16-16-phone"
+     transform="translate(-384.85742,-493.35999)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       x="301"
+       y="494.35999"
+       width="16"
+       height="16"
+       ry="0.42105001"
+       opacity="0"
+       id="rect12" />
+    <path
+       class="ColorScheme-Text"
+       transform="translate(321,529.36)"
+       d="m -14,-34 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.89199,2 2,2 h 4 c 1.108,0 2,-0.89199 2,-2 v -10 c 0,-1.108 -0.89199,-2 -2,-2 z m 0,1 h 4 c 0.55401,0 1,0.446 1,1 v 10 c 0,0.55401 -0.44599,1 -1,1 h -4 c -0.55401,0 -1,-0.44599 -1,-1 v -10 c 0,-0.554 0.44599,-1 1,-1 z"
+       fill="currentColor"
+       id="path14" />
+    <circle
+       cx="307.5"
+       cy="497.85999"
+       r="0.5"
+       fill="currentColor"
+       opacity="0.5"
+       id="circle16" />
+  </g>
+  <g
+     id="phone-battery"
+     transform="translate(-383.85742,-535.36)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <path
+       transform="translate(321,529.36)"
+       d="m 10,-40 c -1.108,0 -2,0.89199 -2,2 v 24 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.89199 2,-2 v -24 c 0,-1.108 -0.892,-2 -2,-2 h -9.6523 z m 0,1 h 2.4922 l 0.49023,0.65234 C 13.09835,-38.19385 13.13748,-38 13.33009,-38 h 5.3398 c 0.19261,0 0.23174,-0.19385 0.34766,-0.34766 L 19.50778,-39 h 2.4922 c 0.554,0 1,0.446 1,1 v 24 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -24 c 0,-0.554 0.446,-1 1,-1 z m 6.5,6 -4,8 H 15 v 6 l 4.5,-8 h -3 z"
+       id="path19" />
+    <rect
+       x="321"
+       y="487.35999"
+       width="32"
+       height="32"
+       fill="none"
+       id="rect21" />
+    <rect
+       class="ColorScheme-Text"
+       fill="currentColor"
+       x="333"
+       y="514.35999"
+       width="8"
+       height="1"
+       ry="0.5"
+       opacity="0.5"
+       id="rect23" />
+  </g>
+  <g
+     id="16-16-phone-battery"
+     transform="translate(-383.85742,-535.36)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       x="300"
+       y="494.35999"
+       width="16"
+       height="16"
+       ry="0.42105001"
+       opacity="0"
+       id="rect26" />
+    <path
+       class="ColorScheme-Text"
+       d="m 306,495.36 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.89199,2 2,2 h 4 c 1.108,0 2,-0.89199 2,-2 v -10 c 0,-1.108 -0.89199,-2 -2,-2 z m 0,1 h 4 c 0.55401,0 1,0.446 1,1 v 10 c 0,0.55401 -0.44599,1 -1,1 h -4 c -0.55401,0 -1,-0.44599 -1,-1 v -10 c 0,-0.554 0.44599,-1 1,-1 z"
+       fill="currentColor"
+       id="path28" />
+    <circle
+       class="ColorScheme-Text"
+       cx="306.5"
+       cy="497.85999"
+       r="0.5"
+       fill="currentColor"
+       opacity="0.5"
+       id="circle30" />
+    <path
+       class="ColorScheme-Text"
+       d="m 308,505.36 1,-3 h -1 v -2 l -1,3 h 1 z"
+       fill="currentColor"
+       id="path32" />
+  </g>
+  <g
+     id="2"
+     transform="translate(-306,-535.36)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       x="362"
+       y="493.35999"
+       width="22"
+       height="22"
+       fill="none"
+       id="rect35" />
+    <rect
+       class="ColorScheme-Text"
+       x="370"
+       y="510.35999"
+       width="6"
+       height="1"
+       ry="0.5"
+       fill="currentColor"
+       opacity="0.5"
+       id="rect37" />
+    <path
+       transform="translate(321,529.36)"
+       d="m 48,-35 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 v -14 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 1.108,0 2,0.89201 2,2 v 14 c 0,1.108 -0.89201,2 -2,2 h -8 c -1.108,0 -2,-0.89201 -2,-2 v -14 c 0,-1.108 0.89201,-2 2,-2 z m 4,5 -2,5 h 2 v 3 l 2,-5 h -2 z"
+       id="path39" />
+  </g>
+  <g
+     id="22"
+     transform="translate(-306,-535.36)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       x="362"
+       y="535.35999"
+       width="22"
+       height="22"
+       fill="none"
+       id="rect42" />
+    <rect
+       class="ColorScheme-Text"
+       x="370"
+       y="552.35999"
+       width="6"
+       height="1"
+       ry="0.5"
+       fill="currentColor"
+       opacity="0.5"
+       id="rect44" />
+    <path
+       transform="translate(321,529.36)"
+       d="m 48,7 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 V 10 C 59,8.338 57.662,7 56,7 h -2 -4 z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 1.108,0 2,0.89201 2,2 v 14 c 0,1.108 -0.89201,2 -2,2 h -8 c -1.108,0 -2,-0.89201 -2,-2 V 10 c 0,-1.108 0.89201,-2 2,-2 z"
+       id="path46" />
+  </g>
+  <rect
+     x="54.672768"
+     y="-42.000015"
+     width="22"
+     height="22"
+     fill="none"
+     id="rect1008"
+     style="color:#363636" />
+  <g
+     transform="translate(-62.857422,-6)"
+     id="22-22-phone-battery">
+    <rect
+       transform="rotate(90)"
+       ry="6.4166665"
+       y="-85"
+       x="-36.000015"
+       height="22"
+       width="22"
+       id="rect882"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
+    <path
+       id="rect891"
+       style="fill:#242424;fill-opacity:1;stroke-width:2.18218;stroke-linecap:round"
+       d="M 71.142578,-32.000015 C 69.955435,-32.000015 69,-31.04458 69,-29.857437 v 10.714844 c 0,1.187143 0.955435,2.142578 2.142578,2.142578 h 5.714844 C 78.044565,-17.000015 79,-17.95545 79,-19.142593 v -10.714844 c 0,-1.187143 -0.955435,-2.142578 -2.142578,-2.142578 z m -0.142578,1 h 6 c 0.554,0 1,0.446 1,1 v 11 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -11 c 0,-0.554 0.446,-1 1,-1 z" />
+    <rect
+       x="71.49604"
+       y="-32.000015"
+       width="5.007925"
+       height="2"
+       ry="1"
+       id="rect922"
+       style="color:#363636;fill:#242424;fill-opacity:1;stroke-width:0.913594" />
+    <rect
+       x="72"
+       y="-19.999954"
+       width="4"
+       height="0.99993998"
+       ry="0.49996999"
+       opacity="0.5"
+       id="rect924"
+       style="color:#363636;fill:#242424;fill-opacity:1;stroke-width:0.816497" />
+    <path
+       style="color:#363636;fill:#363636"
+       id="path1012"
+       d="m 74,-29 -2,5 h 2 v 3 l 2,-5 h -2 z"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     transform="translate(-63,-7.999939)"
+     id="22-22-phone">
+    <rect
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round"
+       id="rect1026"
+       width="22"
+       height="22"
+       x="7.999939"
+       y="-85"
+       ry="6.4166665"
+       transform="rotate(90)" />
+    <path
+       d="M 71.142578,11.999939 C 69.955435,11.999939 69,12.955374 69,14.142517 v 10.714844 c 0,1.187143 0.955435,2.142578 2.142578,2.142578 h 5.714844 C 78.044565,26.999939 79,26.044504 79,24.857361 V 14.142517 c 0,-1.187143 -0.955435,-2.142578 -2.142578,-2.142578 z m -0.142578,1 h 6 c 0.554,0 1,0.446 1,1 v 11 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -11 c 0,-0.554 0.446,-1 1,-1 z"
+       style="fill:#242424;fill-opacity:1;stroke-width:2.18218;stroke-linecap:round"
+       id="path1028" />
+    <rect
+       style="color:#363636;fill:#242424;fill-opacity:1;stroke-width:0.913594"
+       id="rect1030"
+       ry="1"
+       height="2"
+       width="5.007925"
+       y="11.999939"
+       x="71.49604" />
+    <rect
+       style="color:#363636;fill:#242424;fill-opacity:1;stroke-width:0.816497"
+       id="rect1032"
+       opacity="0.5"
+       ry="0.49996999"
+       height="0.99993998"
+       width="4"
+       y="24"
+       x="72" />
+  </g>
+</svg>
