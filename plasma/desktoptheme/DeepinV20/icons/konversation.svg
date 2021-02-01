@@ -13,7 +13,7 @@
    height="22"
    width="22"
    sodipodi:docname="konversation.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#00c032"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="985"
+     inkscape:window-height="942"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="17.340909"
-     inkscape:cx="-5.3932604"
-     inkscape:cy="13.872798"
+     inkscape:cx="3.7845662"
+     inkscape:cy="9.9142579"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:snap-bbox="true"
@@ -71,10 +71,19 @@
        x="9.5367432e-07"
        height="22"
        width="22"
+       id="rect836"
+       style="opacity:0.001;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
+    <rect
+       transform="rotate(90)"
+       ry="6.125"
+       y="-21.5"
+       x="0.5"
+       height="21"
+       width="21"
        id="rect882"
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.449999;stroke-linecap:round" />
     <path
-       d="M 10.594182,5.0000844 C 7.4753907,4.9830285 4.9210156,7.5527993 4.9210156,10.671671 c 0,3.118871 2.5542943,5.671586 5.6731664,5.671586 l 0.04264,1.620453 c 1.57468,-0.0032 6.426536,-2.4291 6.426536,-6.472337 0,-4.0432354 -2.425941,-6.4692125 -6.469177,-6.4912886 z"
+       d="M 10.594182,5.0000844 C 7.4753907,4.9830285 4.9210156,7.5527993 4.9210156,10.671671 c 0,3.118871 2.5542943,5.671586 5.6731664,5.671586 l 0.04264,1.620453 c 1.57468,-0.0032 6.426536,-2.4291 6.426536,-6.472337 0,-4.0432354 -2.425941,-6.4692125 -6.469176,-6.4912886 z"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6173;stroke-linecap:round"
        id="rect875" />
   </g>

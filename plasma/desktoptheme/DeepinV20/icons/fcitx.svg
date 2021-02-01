@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="fcitx.svg"
    width="242"
    height="154"
@@ -16,15 +16,15 @@
   <sodipodi:namedview
      inkscape:current-layer="svg213"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="113.67739"
-     inkscape:cx="23.558897"
-     inkscape:zoom="8.28"
+     inkscape:cy="122.57526"
+     inkscape:cx="11.954002"
+     inkscape:zoom="3.3631401"
      showgrid="true"
      id="namedview129"
-     inkscape:window-height="700"
-     inkscape:window-width="1366"
+     inkscape:window-height="942"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -1007,41 +1007,25 @@ fill=&quot;currentColor&quot;/&gt;
   </g>
   <g
      id="fcitx-unikey"
-     transform="translate(0.11100006,-3)">
+     transform="translate(-2,-1)">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.342856;stroke-linecap:round"
-       id="rect1010-6"
-       width="16"
-       height="16"
-       x="116"
-       y="-18.889"
-       ry="4.6666665"
-       transform="rotate(90)" />
-    <g
-       id="g1669"
-       transform="matrix(1.0139894,0,0,1.0139894,-14.854686,8.5163742)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.28743px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207187"
-         x="19.185377"
-         y="116.84898"
-         id="text1625"><tspan
-           sodipodi:role="line"
-           id="tspan1623"
-           x="19.185377"
-           y="116.84898"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.207187">TV</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:11.0499px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5959;fill-opacity:0.910011;stroke:none;stroke-width:0.276248"
-         x="28.586082"
-         y="117.83518"
-         id="text1625-2"><tspan
-           sodipodi:role="line"
-           id="tspan1623-1"
-           x="28.586082"
-           y="117.83518"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#ff5959;fill-opacity:0.910011;stroke-width:0.276248">I</tspan></text>
-    </g>
+       transform="rotate(90)"
+       ry="6"
+       y="-24"
+       x="111.00252"
+       height="21.994965"
+       width="21.994965"
+       id="rect887"
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round" />
+    <path
+       id="path17-3"
+       fill="none"
+       d="m 2,111 h 22 v 22 H 2 Z" />
+    <path
+       id="path19"
+       fill="currentColor"
+       class="ColorScheme-Text"
+       d="m 6,115 v 8 h 3 v 7 h 8 v -7 h 3 v -8 h -7 z m 1,1 h 6 v 6 H 7 Z m 7,0 h 5 v 6 h -5 z m -6,1 v 1.5 c 0,0.806 0.123,1.423 0.484,1.875 C 8.846,120.827 9.417,121 10,121 c 0.583,0 1.154,-0.173 1.516,-0.625 C 11.877,119.923 12,119.305 12,118.5 V 117 h -1 v 1.5 c 0,0.694 -0.127,1.077 -0.266,1.25 C 10.596,119.923 10.417,120 10,120 9.583,120 9.404,119.923 9.266,119.75 9.127,119.577 9,119.194 9,118.5 V 117 Z m 8,0 v 4 h 1 v -4 z m -6,6 h 6 v 6 h -6 z m 2,1 h -1 v 4 h 1 v -2.498 L 14,128 h 1 v -4 h -1 v 2.498 z"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="restore.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -42,9 +42,9 @@
      inkscape:window-height="942"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="5.3636365"
-     inkscape:cx="-17.267319"
-     inkscape:cy="48.422187"
+     inkscape:zoom="2.6818183"
+     inkscape:cx="-128.39164"
+     inkscape:cy="-5.1310576"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
@@ -87,16 +87,16 @@
          id="rect925"
          sodipodi:nodetypes="cccccccccc" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect930"
-         width="13"
+         width="14"
          height="1"
          x="-18"
-         y="6"
+         y="5"
          ry="0" />
       <rect
          ry="0"
-         y="-6"
+         y="-5"
          x="-15"
          height="1"
          width="9"
@@ -127,20 +127,20 @@
          sodipodi:nodetypes="cccccccccc" />
       <rect
          ry="0"
-         y="6"
+         y="5"
          x="-18"
          height="1"
-         width="13"
+         width="14"
          id="rect941"
-         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(-90)"
          style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.866025;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect943"
          width="9"
          height="1"
-         x="-16"
-         y="-6"
+         x="-15"
+         y="-5"
          ry="0" />
     </g>
   </g>
@@ -173,12 +173,12 @@
          sodipodi:nodetypes="cccccccccc" />
       <rect
          ry="0"
-         y="6"
+         y="5"
          x="-18"
          height="1"
-         width="13"
+         width="14"
          id="rect949"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(-90)"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.866025;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -186,7 +186,7 @@
          width="9"
          height="1"
          x="-15"
-         y="-6"
+         y="-5"
          ry="0" />
     </g>
   </g>
@@ -218,16 +218,16 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect975"
-         width="13"
+         width="14"
          height="1"
          x="-18"
-         y="6"
+         y="5"
          ry="0" />
       <rect
          ry="0"
-         y="-6"
+         y="-5"
          x="-15"
          height="1"
          width="9"
@@ -257,21 +257,21 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <rect
-         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04083;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1008"
-         width="13"
+         width="14"
          height="1"
          x="-18"
-         y="6"
+         y="5"
          ry="0" />
       <rect
          ry="0"
-         y="-6"
+         y="-5"
          x="-15"
          height="1"
-         width="8"
+         width="9"
          id="rect1010"
-         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.816497;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.866026;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="rotate(-90)" />
     </g>
   </g>

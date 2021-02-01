@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="bar_meter_horizontal.svg"
    id="svg31"
    viewBox="0 0 30 30"
@@ -29,14 +29,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg31"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-x="0"
      inkscape:cy="18.327379"
      inkscape:cx="12.330362"
      inkscape:zoom="22.250293"
      showgrid="false"
      id="namedview33"
-     inkscape:window-height="932"
+     inkscape:window-height="942"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -155,55 +155,55 @@
      id="bar-inactive-top"
      style="fill:#000000;opacity:0.25" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 17,27 v 3 c 1.662,0 3,-1.338 3,-3 z"
      class="ColorScheme-Highlight"
      id="bar-active-bottomright" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 17,24 v 2 h 3 v -2 z"
      class="ColorScheme-Highlight"
      id="bar-active-right" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 17,20 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
      class="ColorScheme-Highlight"
      id="bar-active-topright" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 10,27 c 0,1.662 1.338,3 3,3 v -3 z"
      class="ColorScheme-Highlight"
      id="bar-active-bottomleft" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 10,24 v 2 h 3 v -2 z"
      class="ColorScheme-Highlight"
      id="bar-active-left" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 13,20 c -1.662,0 -3,1.338 -3,3 h 3 z"
      class="ColorScheme-Highlight"
      id="bar-active-topleft" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 14,27 v 3 h 2 v -3 z"
      class="ColorScheme-Highlight"
      id="bar-active-bottom" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 16,24 h -2 v 2 h 2 z"
      class="ColorScheme-Highlight"
      id="bar-active-center" />
   <path
-     style="color:#3daee9;fill:#1e82ff;fill-opacity:1"
+     style="color:#3daee9;fill:#fffeff;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 14,20 v 3 h 2 v -3 z"
      class="ColorScheme-Highlight"
