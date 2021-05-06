@@ -12,10 +12,10 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="vlc.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -24,19 +24,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="932"
+     inkscape:window-height="992"
      id="namedview13"
      showgrid="true"
      inkscape:zoom="17.386364"
-     inkscape:cx="-0.27628133"
-     inkscape:cy="7.8294807"
+     inkscape:cx="9.0594742"
+     inkscape:cy="12.926655"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid864" />
@@ -59,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,32 +88,37 @@
          id="rect4246"
          style="fill:none;fill-opacity:1;stroke:none;stroke-width:3.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          class="ColorScheme-Text" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.08687;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4271"
-         width="14"
-         height="2"
-         x="4"
-         y="1046.3621"
-         class="ColorScheme-Text" />
-      <path
-         id="path4273"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.995291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="M 9.1191406 5.0097656 L 5.5019531 18 L 6.5390625 18 L 9.8808594 6 L 12.119141 6 L 15.460938 18 L 16.498047 18 L 12.880859 5.0097656 L 9.1191406 5.0097656 z "
-         transform="translate(0,1030.3621)" />
-      <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.81649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 9,1038.3621 h 4 l 1,2 H 8 Z"
-         id="path4275"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Text" />
-      <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8165px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.5,1042.3621 h 7 l 0.5,2 H 7 Z"
-         id="path4277"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Text"
-         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g896">
+        <path
+           d="m 10.020787,1034.3621 a 0.8750875,0.8750875 0 0 0 -0.8442345,0.6426 l -3.202675,11.6078 H 6.88309 l 3.137663,-11.375 h 1.958512 l 3.137663,11.375 h 0.909212 l -3.202675,-11.6078 a 0.8750875,0.8750875 0 0 0 -0.844235,-0.6426 h -1.958513 z"
+           id="path5"
+           style="color:#31363b;fill:#ffffff;fill-opacity:1;stroke-width:0.875" />
+        <g
+           class="ColorScheme-Text"
+           fill="currentColor"
+           id="g13"
+           transform="matrix(0.875,0,0,0.875,1.375,130.13712)"
+           style="fill:#ffffff;fill-opacity:1">
+          <rect
+             x="3"
+             y="1047.4"
+             width="16"
+             height="2"
+             rx="1"
+             ry="1"
+             id="rect7"
+             style="fill:#ffffff;fill-opacity:1" />
+          <path
+             d="m 9,1036.4 h 4 l 1,3 H 8 Z"
+             id="path9"
+             style="fill:#ffffff;fill-opacity:1" />
+          <path
+             d="m 7.5,1042.4 h 7 l 1,3 h -9 z"
+             id="path11"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>
