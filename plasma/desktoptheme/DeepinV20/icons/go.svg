@@ -5,11 +5,44 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg36"
    viewBox="0 0 22 22"
    version="1.1"
    height="22"
-   width="22">
+   width="22"
+   sodipodi:docname="go.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="957"
+     id="namedview24"
+     showgrid="true"
+     inkscape:zoom="13.515382"
+     inkscape:cx="-4.8885459"
+     inkscape:cy="9.0063962"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
   <metadata
      id="metadata40">
     <rdf:RDF>
@@ -18,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,85 +95,6 @@
   </defs>
   <g
      transform="translate(-326,-534.36)"
-     id="go-home">
-    <rect
-       id="rect5"
-       fill="none"
-       height="22"
-       width="22"
-       y="534.36"
-       x="326" />
-    <path
-       id="path7"
-       fill="currentColor"
-       d="m337 537.36-8 8 0.70703 0.70703 0.29297-0.29297v7.5859h14v-7.5859l0.29297 0.29297 0.70703-0.70703-3-3v-3h-3zm0 1.4141 6 6v7.5859h-4v-5h-4v5h-4v-7.5859z"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(-326,-534.36)"
-     id="go-down">
-    <rect
-       id="rect10"
-       fill="none"
-       height="22"
-       width="22"
-       y="534.36"
-       x="414" />
-    <g
-       id="g14"
-       transform="translate(414,-496)">
-      <path
-         id="path12"
-         fill="currentColor"
-         d="m3.707 7-0.70703 0.70703 8 8 8-8-0.70703-0.70703-7.293 7.293-7.293-7.293z"
-         transform="translate(-5e-7,1030.4)"
-         class="ColorScheme-Text" />
-    </g>
-  </g>
-  <g
-     transform="translate(-326,-534.36)"
-     id="go-next">
-    <rect
-       id="rect17"
-       fill="none"
-       height="22"
-       width="22"
-       y="534.36"
-       x="370" />
-    <g
-       id="g21"
-       transform="translate(370,-496)">
-      <path
-         id="path19"
-         fill="currentColor"
-         d="m7.707 3-0.70703 0.70703 7.293 7.293-7.293 7.293 0.70703 0.70703 8-8-8-8z"
-         transform="translate(-5e-7,1030.4)"
-         class="ColorScheme-Text" />
-    </g>
-  </g>
-  <g
-     transform="translate(-326,-534.36)"
-     id="go-previous">
-    <rect
-       id="rect24"
-       fill="none"
-       height="22"
-       width="22"
-       y="534.36"
-       x="348" />
-    <g
-       id="g28"
-       transform="translate(348,-496)">
-      <path
-         id="path26"
-         fill="currentColor"
-         d="m14.293 3-8 8 8 8 0.70703-0.70703-7.293-7.293 7.293-7.293-0.70703-0.70703z"
-         transform="translate(-5e-7,1030.4)"
-         class="ColorScheme-Text" />
-    </g>
-  </g>
-  <g
-     transform="translate(-326,-534.36)"
      id="go-up">
     <rect
        id="rect31"
@@ -155,5 +109,81 @@
        fill="currentColor"
        d="m403 543.36-5 4h10z"
        class="ColorScheme-Text" />
+  </g>
+  <g
+     id="go-previous"
+     transform="translate(-10.000015,28.000015)">
+    <rect
+       id="rect851"
+       fill="none"
+       height="22"
+       width="22"
+       y="32"
+       x="6.0000153"
+       transform="rotate(-90)" />
+    <path
+       id="path853"
+       fill-rule="evenodd"
+       fill="currentColor"
+       d="m 41.000015,-17.000015 4,5 v -10 z"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="go-next"
+     transform="matrix(-1,0,0,1,98.000015,28.000015)">
+    <rect
+       id="rect863"
+       fill="none"
+       height="22"
+       width="22"
+       y="32"
+       x="6.0000153"
+       transform="rotate(-90)" />
+    <path
+       id="path865"
+       fill-rule="evenodd"
+       fill="currentColor"
+       d="m 41.000015,-17.000015 4,5 v -10 z"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-304,556.35997)"
+     id="go-down">
+    <rect
+       id="rect869"
+       fill="none"
+       height="22"
+       width="22"
+       y="534.35999"
+       x="392" />
+    <path
+       id="path871"
+       fill-rule="evenodd"
+       fill="currentColor"
+       d="m 403,543.36 -5,4 h 10 z"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="go-home">
+    <rect
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       id="rect817-1"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       id="rect990"
+       width="21.994965"
+       height="21.994965"
+       x="0.0025177002"
+       y="-21.997482"
+       ry="6"
+       transform="rotate(90)" />
+    <path
+       style="color:#31363b;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+       d="m 11,4.000017 -7,7 0.618651,0.618652 L 4.875,11.36232 v 6.637663 h 12.25 V 11.36232 L 17.381349,11.618669 18,11.000017 15.375,8.3750173 V 5.7500171 H 12.75 Z m 0,1.2373375 5.25,5.2500005 v 6.637662 h -3.5 v -4.375 h -3.5 v 4.375 h -3.5 v -6.637662 z"
+       id="path947" />
   </g>
 </svg>
