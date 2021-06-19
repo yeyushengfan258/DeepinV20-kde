@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7384"
+   width="32"
+   height="32"
+   version="1.1"
+   style="enable-background:new"
+   sodipodi:docname="office.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview9"
+     showgrid="true"
+     inkscape:zoom="10.246488"
+     inkscape:cx="11.760127"
+     inkscape:cy="8.929889"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }
+  </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }
+  </style>
+    <style
+       type="text/css"
+       id="style819" />
+  </defs>
+  <rect
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.514644;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+     id="rect35722-6"
+     width="32"
+     height="32"
+     x="-45.000034"
+     y="4.9999962" />
+  <g
+     id="office-chart-pie">
+    <rect
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.685714;stroke-linecap:round"
+       id="rect890"
+       width="32"
+       height="32"
+       x="1.8146973e-06"
+       y="-32"
+       ry="9"
+       transform="rotate(90)" />
+    <rect
+       y="-2e-06"
+       width="32"
+       height="32"
+       ry="0.63999999"
+       fill-opacity="0"
+       id="rect14"
+       x="0"
+       style="color:#363636;fill:#363636" />
+    <path
+       id="path952"
+       style="fill:#242424;fill-opacity:1;stroke-width:5.93073"
+       d="m 16.35749,6.0000759 c -0.520271,-0.00432 -0.842453,0.1757936 -0.842453,0.1757936 0,0 -6.9659706,3.7903075 -7.2576914,4.0282645 -0.2914792,0.238015 -0.2559864,1.174557 -0.2559864,1.174557 v 9.645178 c 0,0.280525 0.317744,0.544552 0.6182952,0.687546 0.3006128,0.142996 0.8363584,0 0.8363584,0 0,0 2.2922042,-1.408147 2.4142642,-1.512471 0.122362,-0.104324 0.08465,-0.494173 0.08465,-0.494173 v -7.320804 c 0,-0.590008 1.304313,-1.087963 1.304313,-1.087963 l 4.980224,-1.879683 c -1.07e-4,1.59919 -5.39e-4,7.044797 -6.77e-4,12.462423 h -6.573029 c 0,0 -0.587997,-0.03628 -0.825523,0.372421 -0.237526,0.408691 -0.199859,0.889707 0.01286,1.033923 0.212546,0.144217 4.600662,2.524102 4.775707,2.608248 0.125164,0.06016 0.53205,0.162312 1.011756,0.06902 -0.0049,0.0017 -0.0093,0.0035 -0.01422,0.0052 l 0.02777,-0.0078 c 0.105924,-0.02136 0.215118,-0.05187 0.32574,-0.09506 l 5.766468,-1.675895 c 0,0 1.250135,-0.312427 1.250135,-1.514424 V 9.7229818 c 0,0 0.104074,-1.3512656 -0.815364,-1.750768 -0.8725,-0.3790497 -5.611215,-1.7114355 -6.106435,-1.8503851 -0.04514,-0.013544 -0.09138,-0.030784 -0.135443,-0.04232 -0.212833,-0.055736 -0.408302,-0.077992 -0.581726,-0.079433 z" />
+  </g>
+</svg>

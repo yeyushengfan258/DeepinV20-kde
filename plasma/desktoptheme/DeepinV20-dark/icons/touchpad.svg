@@ -20,9 +20,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="-7.0937499"
-     inkscape:cy="-10.28125"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="-85.02959"
+     inkscape:cy="-10.783378"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -86,7 +86,7 @@
   <g
      id="touchpad_enabled">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.685714;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.685714;stroke-linecap:round"
        id="rect890"
        width="32"
        height="32"
@@ -108,10 +108,10 @@
        transform="translate(18)">
       <path
          id="path3212"
-         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-linejoin:round"
          d="m -8,7 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 H 4 c 1.662,0 3,-1.338 3,-3 V 10 C 7,8.338 5.662,7 4,7 Z m 0,1 H 4 c 1.108,0 2,0.892 2,2 v 12 c 0,1.108 -0.892,2 -2,2 H -8 c -1.108,0 -2,-0.892 -2,-2 V 10 c 0,-1.108 0.892,-2 2,-2 z" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:1.06066;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-width:1.06066;stroke-linejoin:round"
          id="rect3214"
          width="18"
          height="1"
@@ -119,7 +119,7 @@
          y="20"
          ry="0" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-linejoin:round"
          id="rect3216"
          width="1"
          height="5"
@@ -130,7 +130,7 @@
   <g
      id="touchpad_disabled">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.685714;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.685714;stroke-linecap:round"
        id="rect3258"
        width="32"
        height="32"
@@ -152,10 +152,10 @@
        transform="translate(18,-36.999998)">
       <path
          id="path3262"
-         style="fill:#c8c8c8;fill-opacity:0.998552;stroke-linejoin:round"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
          d="m -8,7 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 H 4 c 1.662,0 3,-1.338 3,-3 V 10 C 7,8.338 5.662,7 4,7 Z m 0,1 H 4 c 1.108,0 2,0.892 2,2 v 12 c 0,1.108 -0.892,2 -2,2 H -8 c -1.108,0 -2,-0.892 -2,-2 V 10 c 0,-1.108 0.892,-2 2,-2 z" />
       <rect
-         style="fill:#c8c8c8;fill-opacity:0.998552;stroke-width:1.06066;stroke-linejoin:round"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-width:1.06066;stroke-linejoin:round"
          id="rect3264"
          width="18"
          height="1"
@@ -163,7 +163,7 @@
          y="20"
          ry="0" />
       <rect
-         style="fill:#c8c8c8;fill-opacity:0.998552;stroke-linejoin:round"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
          id="rect3266"
          width="1"
          height="5"
@@ -194,16 +194,17 @@
        opacity="0.8"
        stroke-linecap="round"
        stroke-width="0.47143"
-       id="rect141" />
+       id="rect141"
+       style="fill:#ffffff;fill-opacity:1" />
     <g
        id="g15460"
        transform="translate(-14.5,-22.5)">
       <path
          id="rect10737"
-         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-linejoin:round"
          d="m -5,35 c -1.662,0 -3,1.338 -3,3 v 7 c 0,1.662 1.338,3 3,3 h 7 c 1.662,0 3,-1.338 3,-3 V 38 C 5,36.338 3.662,35 2,35 Z m 0,1 h 7 c 1.108,0 2,0.892 2,2 v 7 c 0,1.108 -0.892,2 -2,2 h -7 c -1.108,0 -2,-0.892 -2,-2 v -7 c 0,-1.108 0.892,-2 2,-2 z" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-linejoin:round"
          id="rect15293"
          width="13"
          height="1"
@@ -211,7 +212,7 @@
          y="44"
          ry="0.5" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-linejoin:round"
          id="rect15295"
          width="1"
          height="4"
@@ -233,16 +234,17 @@
        opacity="0.8"
        stroke-linecap="round"
        stroke-width="0.47143"
-       id="rect15469" />
+       id="rect15469"
+       style="fill:#ffffff;fill-opacity:1" />
     <g
        id="g15477"
        transform="translate(-14.5,-60)">
       <path
          id="path15471"
-         style="fill:#c8c8c8;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
          d="m -5,35 c -1.662,0 -3,1.338 -3,3 v 7 c 0,1.662 1.338,3 3,3 h 7 c 1.662,0 3,-1.338 3,-3 V 38 C 5,36.338 3.662,35 2,35 Z m 0,1 h 7 c 1.108,0 2,0.892 2,2 v 7 c 0,1.108 -0.892,2 -2,2 h -7 c -1.108,0 -2,-0.892 -2,-2 v -7 c 0,-1.108 0.892,-2 2,-2 z" />
       <rect
-         style="fill:#c8c8c8;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
          id="rect15473"
          width="13"
          height="1"
@@ -250,7 +252,7 @@
          y="44"
          ry="0.5" />
       <rect
-         style="fill:#c8c8c8;fill-opacity:1;stroke-linejoin:round"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
          id="rect15475"
          width="1"
          height="4"
