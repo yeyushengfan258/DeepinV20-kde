@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="5.953125"
-     inkscape:cy="11.5625"
+     inkscape:zoom="16"
+     inkscape:cx="6.34375"
+     inkscape:cy="9.375"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -149,7 +149,7 @@
        id="kget"
        transform="translate(-21.997482)">
       <rect
-         style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+         style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
          id="rect990"
          width="21.994965"
          height="21.994965"
@@ -160,7 +160,7 @@
       <g
          id="g1424">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:1.15293;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#242424;fill-opacity:1;stroke-width:1.15293;stroke-linecap:round;stroke-linejoin:round"
            id="rect957"
            width="2"
            height="12.000051"
@@ -168,7 +168,7 @@
            y="539.36218"
            ry="1" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#242424;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
            id="rect1219"
            width="2"
            height="7.0000162"
@@ -177,7 +177,7 @@
            ry="1"
            transform="rotate(-45)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#242424;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
            id="rect1956"
            width="2"
            height="7.0000162"

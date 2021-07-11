@@ -16,16 +16,16 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="namedview9"
-     pagecolor="#ffffff"
+     pagecolor="#c8c8c8"
      bordercolor="#999999"
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="4.5340909"
-     inkscape:cx="-28.340852"
-     inkscape:cy="6.6165413"
+     inkscape:zoom="12.824346"
+     inkscape:cx="1.130662"
+     inkscape:cy="8.9673191"
      inkscape:window-width="1920"
      inkscape:window-height="954"
      inkscape:window-x="0"
@@ -40,7 +40,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,7 +87,7 @@
      id="ktorrent"
      transform="translate(-347.99748,-534.35966)">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
        id="rect990"
        width="21.994965"
        height="21.994965"
@@ -99,7 +98,7 @@
     <g
        id="g1424">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:1.15293;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-width:1.15293;stroke-linecap:round;stroke-linejoin:round"
          id="rect957"
          width="2"
          height="12.000051"
@@ -107,7 +106,7 @@
          y="539.36218"
          ry="1" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
          id="rect1219"
          width="2"
          height="7.0000162"
@@ -116,7 +115,7 @@
          ry="1"
          transform="rotate(-45)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#242424;fill-opacity:1;stroke-width:0.880561;stroke-linecap:round;stroke-linejoin:round"
          id="rect1956"
          width="2"
          height="7.0000162"
