@@ -7,7 +7,7 @@
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    width="32.000004"
    height="32"
-   sodipodi:docname="plasmavault_error.svg"
+   sodipodi:docname="plasmavault.svg"
    viewBox="0 0 32.000004 32"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -83,9 +83,9 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="2.8671876"
-     inkscape:cx="-15.520436"
-     inkscape:cy="29.471389"
+     inkscape:zoom="8.109631"
+     inkscape:cx="-0.9248263"
+     inkscape:cy="7.3369553"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
@@ -138,10 +138,10 @@
      min="0,0"
      max="22,22" />
   <g
-     id="22-22-plasmavault_error"
+     id="22-22-plasmavault"
      transform="translate(-276,-529.36218)">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
        id="rect990"
        width="21.994965"
        height="21.994965"
@@ -154,29 +154,29 @@
        transform="translate(25)">
       <path
          id="rect869"
-         style="fill:#da4453;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
          d="m 80,15 c -1.107989,0 -2,0.892011 -2,2 v 5 c 0,1.107989 0.892011,2 2,2 h 8 c 1.107989,0 2,-0.892011 2,-2 v -5 c 0,-1.107989 -0.892011,-2 -2,-2 z"
          transform="translate(228,529.36218)" />
       <path
          id="rect9168"
-         style="fill:#da4453;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
          d="m -14,3 c -2.216,0 -4,1.784 -4,4 v 3 h 1 V 7 c 0,-1.662 1.338,-3 3,-3 1.662,0 3,1.338 3,3 v 3 h 1 V 7 c 0,-2.216 -1.784,-4 -4,-4 z"
          transform="translate(326,534.36218)" />
     </g>
   </g>
   <g
-     id="plasmavault_error">
+     id="plasmavault">
     <rect
        y="-1e-06"
        x="-2.8953547e-08"
        height="32"
        width="32.000004"
-       id="rect4230-3"
+       id="rect4230"
        style="fill:none;fill-opacity:1;stroke:none" />
     <g
        id="g2212">
       <rect
-         style="fill:#da4453;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         style="fill:#242424;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;fill-opacity:1"
          id="rect1112"
          width="18"
          height="12"
@@ -185,7 +185,7 @@
          ry="1.999999" />
       <path
          id="rect2028"
-         style="fill:#da4453;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         style="fill:#242424;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;fill-opacity:1"
          d="m 16,4 c -3.324,0 -6,2.676 -6,6 v 12 c 0,3.324 2.676,6 6,6 3.324,0 6,-2.676 6,-6 V 10 C 22,6.676 19.324,4 16,4 Z m 0,2 c 2.216,0 4,1.784 4,4 v 12 c 0,2.216 -1.784,4 -4,4 -2.216,0 -4,-1.784 -4,-4 V 10 c 0,-2.216 1.784,-4 4,-4 z" />
     </g>
   </g>

@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4153"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    width="32.000004"
    height="32"
-   sodipodi:docname="plasmavault.svgz"
-   viewBox="0 0 32.000004 32">
+   sodipodi:docname="plasmavault.svg"
+   viewBox="0 0 32.000004 32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata4159">
     <rdf:RDF>
@@ -24,7 +24,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +68,7 @@
       </style>
   </defs>
   <sodipodi:namedview
-     pagecolor="#363636"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -77,24 +76,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1168"
-     inkscape:window-height="967"
+     inkscape:window-width="1920"
+     inkscape:window-height="958"
      id="namedview4155"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="5.7343751"
-     inkscape:cx="8.3838557"
-     inkscape:cy="23.062916"
-     inkscape:window-x="619"
-     inkscape:window-y="339"
-     inkscape:window-maximized="0"
+     inkscape:zoom="8.109631"
+     inkscape:cx="-0.92482629"
+     inkscape:cy="7.3369552"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4153"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4140"
@@ -139,21 +139,30 @@
      max="22,22" />
   <g
      id="22-22-plasmavault"
-     transform="translate(49,4.999999)"
-     inkscape:label="#22-22-plasmavault">
+     transform="translate(-276,-529.36218)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4148"
-       width="22"
-       height="22"
-       x="0"
-       y="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.99999803"
-       d="M 11.000002,2.999995 C 8.784006,2.999995 7,4.783997 7,6.999999 l 0,4.000004 -1.999995,0 c 0,2.666663 0,5.333325 0,7.999998 4.000001,0 8.000003,0 12.000005,0 l 0,-7.999998 c -0.666672,0 -1.333334,0 -2.000006,0 l 0,-4.000004 c 0,-2.216002 -1.783996,-4.000004 -4.000002,-4.000004 m 0,1.000001 c 1.662005,0 2.999999,1.561002 2.999999,3.500003 l 0,3.500004 -5.999998,0 0,-3.500004 c 0,-1.939001 1.338004,-3.500003 2.999999,-3.500003"
-       class="ColorScheme-Text"
-       id="path4" />
+       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.47132;stroke-linecap:round"
+       id="rect990"
+       width="21.994965"
+       height="21.994965"
+       x="534.36469"
+       y="-347.9975"
+       ry="6"
+       transform="rotate(90)" />
+    <g
+       id="g9497"
+       transform="translate(25)">
+      <path
+         id="rect869"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 80,15 c -1.107989,0 -2,0.892011 -2,2 v 5 c 0,1.107989 0.892011,2 2,2 h 8 c 1.107989,0 2,-0.892011 2,-2 v -5 c 0,-1.107989 -0.892011,-2 -2,-2 z"
+         transform="translate(228,529.36218)" />
+      <path
+         id="rect9168"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m -14,3 c -2.216,0 -4,1.784 -4,4 v 3 h 1 V 7 c 0,-1.662 1.338,-3 3,-3 1.662,0 3,1.338 3,3 v 3 h 1 V 7 c 0,-2.216 -1.784,-4 -4,-4 z"
+         transform="translate(326,534.36218)" />
+    </g>
   </g>
   <g
      id="plasmavault">
@@ -163,12 +172,21 @@
        height="32"
        width="32.000004"
        id="rect4230"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.99999815"
-       d="m 15.999994,3.9999861 c -3.324003,0 -6.0000039,2.676007 -6.0000039,6.0000149 l 0,6.000004 -2.9999901,0 C 7,20.000003 7,23.99999 7,28 c 5.999992,0 11.999996,0 18,0 l 0,-11.999995 c -1.000005,0 -1.999997,0 -3.000014,0 l 0,-6.000004 c 0,-3.3240079 -2.675989,-6.0000149 -5.999992,-6.0000149 m 0,1.4999981 c 2.493008,0 4.499992,2.3415103 4.499992,5.2500208 l 0,5.25 -8.999995,0 0,-5.25 c 0,-2.9085105 2.007007,-5.2500208 4.500003,-5.2500208"
-       class="ColorScheme-Text"
-       id="path4-3" />
+       style="fill:none;fill-opacity:1;stroke:none" />
+    <g
+       id="g2212">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         id="rect1112"
+         width="18"
+         height="12"
+         x="7"
+         y="16.000002"
+         ry="1.999999" />
+      <path
+         id="rect2028"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 16,4 c -3.324,0 -6,2.676 -6,6 v 12 c 0,3.324 2.676,6 6,6 3.324,0 6,-2.676 6,-6 V 10 C 22,6.676 19.324,4 16,4 Z m 0,2 c 2.216,0 4,1.784 4,4 v 12 c 0,2.216 -1.784,4 -4,4 -2.216,0 -4,-1.784 -4,-4 V 10 c 0,-2.216 1.784,-4 4,-4 z" />
+    </g>
   </g>
 </svg>
