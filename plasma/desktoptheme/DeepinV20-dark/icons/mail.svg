@@ -26,9 +26,9 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="9.2840909"
-     inkscape:cx="30.536108"
-     inkscape:cy="7.1627907"
+     inkscape:zoom="18.568182"
+     inkscape:cx="25.716034"
+     inkscape:cy="3.7968176"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="0"
@@ -100,7 +100,7 @@
        height="22"
        width="22"
        id="rect882"
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
     <rect
        y="0"
        x="0"
@@ -109,7 +109,7 @@
        id="rect4193-3"
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;-inkscape-stroke:none"
+       style="color:#000000;fill:#242424;fill-opacity:1;-inkscape-stroke:none"
        d="M 16.5,4 C 17.8807,4 19,5.11929 19,6.5 v 9 C 19,16.8807 17.8807,18 16.5,18 H 5.5 C 4.11929,18 3,16.8807 3,15.5 v -9 C 3,5.11929 4.11929,4 5.5,4 Z m 1.5,3.961 -6.7465,3.97 c -0.1304,0.0767 -0.28689,0.0895 -0.42599,0.0383 L 10.74649,11.931 4,7.963 V 15.5 C 4,16.3284 4.67157,17 5.5,17 h 11 C 17.3284,17 18,16.3284 18,15.5 Z M 16.5,5 H 5.5 C 4.67157,5 4,5.67157 4,6.5 v 0.302 l 7,4.1179 7,-4.1189 V 6.5 C 18,5.67157 17.3284,5 16.5,5 Z"
        id="path839" />
   </g>
@@ -123,7 +123,7 @@
        height="22"
        width="22"
        id="rect945"
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
     <rect
        y="0"
        x="29"
@@ -132,7 +132,7 @@
        id="rect947"
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;-inkscape-stroke:none"
+       style="color:#000000;fill:#242424;fill-opacity:1;-inkscape-stroke:none"
        d="M 45.5,4 C 46.8807,4 48,5.11929 48,6.5 v 9 c 0,1.3807 -1.1193,2.5 -2.5,2.5 h -11 C 33.11929,18 32,16.8807 32,15.5 v -9 C 32,5.11929 33.11929,4 34.5,4 Z m 1.5,3.961 -6.7465,3.97 c -0.1304,0.0767 -0.28689,0.0895 -0.42599,0.0383 L 39.74649,11.931 33,7.963 V 15.5 c 0,0.8284 0.67157,1.5 1.5,1.5 h 11 C 46.3284,17 47,16.3284 47,15.5 Z M 45.5,5 h -11 C 33.67157,5 33,5.67157 33,6.5 v 0.302 l 7,4.1179 7,-4.1189 V 6.5 C 47,5.67157 46.3284,5 45.5,5 Z"
        id="path949" />
     <circle
