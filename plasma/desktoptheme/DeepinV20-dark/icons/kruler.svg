@@ -25,9 +25,9 @@
      inkscape:window-height="962"
      id="namedview7"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="16.130873"
-     inkscape:cy="6.1429901"
+     inkscape:zoom="22.627418"
+     inkscape:cx="7.5793005"
+     inkscape:cy="11.291611"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
@@ -80,13 +80,13 @@
        height="22"
        width="22"
        id="rect882"
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
     <g
        id="g2095"
        style="fill:#ffffff;fill-opacity:1"
        transform="translate(32,1)">
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.881918;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.881918;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1081"
          width="14"
          height="2"
@@ -94,7 +94,7 @@
          y="5"
          ry="1" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.623609;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.623609;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1182"
          width="14"
          height="0.99999917"
@@ -102,7 +102,7 @@
          y="15"
          ry="0.49999958" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.552771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.552771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1283"
          width="11"
          height="0.99999917"
@@ -111,7 +111,7 @@
          ry="0.49999958"
          transform="rotate(-90)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.333333;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.333333;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1384"
          width="4"
          height="0.99999917"
@@ -120,7 +120,7 @@
          ry="0.49999958"
          transform="rotate(-90)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.288675;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.288675;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1386"
          width="3"
          height="0.99999917"
@@ -129,7 +129,7 @@
          ry="0.49999958"
          transform="rotate(-90)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.408248;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.408248;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1388"
          width="6"
          height="0.99999917"
@@ -138,7 +138,7 @@
          ry="0.49999958"
          transform="rotate(-90)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.288675;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.288675;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1390"
          width="3"
          height="0.99999917"
@@ -147,7 +147,7 @@
          ry="0.49999958"
          transform="rotate(-90)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.288675;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.288675;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1392"
          width="3"
          height="0.99999917"
@@ -156,7 +156,7 @@
          ry="0.49999958"
          transform="rotate(-90)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577351;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect1883"
          width="12"
          height="1"
