@@ -56,7 +56,7 @@
   <g
      id="akregator">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.664286;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.664286;stroke-linecap:round"
        id="rect878"
        width="31"
        height="31"
@@ -70,13 +70,13 @@
        d="M 0,0 V 32 H 32 V 0 Z" />
     <path
        id="rect1299"
-       style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
        d="M 7 7 L 7 10 A 15 15 0 0 1 22 25 L 25 25 A 18 18 0 0 0 7 7 z M 7 13 L 7 16 A 9 9 0 0 1 16 25 L 19 25 A 12 12 0 0 0 7 13 z M 9.625 19.75 A 2.625 2.625 0 0 0 7 22.375 A 2.625 2.625 0 0 0 9.625 25 A 2.625 2.625 0 0 0 12.25 22.375 A 2.625 2.625 0 0 0 9.625 19.75 z " />
   </g>
   <g
      id="22-22-akregator">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471318;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471318;stroke-linecap:round"
        id="rect990"
        width="21.994965"
        height="21.994965"
@@ -90,7 +90,7 @@
        d="M -27,10 V 32 H -5 V 10 Z" />
     <path
        id="rect4132"
-       style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#242424;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
        d="M -22 15 L -22 17.25 A 9.75 9.75 0 0 1 -12.25 27 L -10 27 A 12 12 0 0 0 -22 15 z M -22 19.5 L -22 21.75 A 5.25 5.25 0 0 1 -16.75 27 L -14.5 27 A 7.5 7.5 0 0 0 -22 19.5 z M -20.5 24 A 1.5 1.5 0 0 0 -22 25.5 A 1.5 1.5 0 0 0 -20.5 27 A 1.5 1.5 0 0 0 -19 25.5 A 1.5 1.5 0 0 0 -20.5 24 z " />
   </g>
 </svg>

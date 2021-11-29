@@ -24,7 +24,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="11.138889"
-     inkscape:cx="-19.526185"
+     inkscape:cx="-19.526184"
      inkscape:cy="14.274314"
      inkscape:window-width="1920"
      inkscape:window-height="963"
@@ -56,7 +56,7 @@
   <g
      id="cantata">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.664286;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.664286;stroke-linecap:round"
        id="rect878"
        width="31"
        height="31"
@@ -71,17 +71,17 @@
        style="color:#363636" />
     <path
        id="rect1331"
-       style="fill:#fefefe;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;opacity:0.5"
+       style="fill:#242424;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;opacity:0.5;fill-opacity:1"
        d="M 15.998047 4 A 12 12 0 0 0 3.9980469 16 A 12 12 0 0 0 15.998047 28 A 12 12 0 0 0 27.998047 16 A 12 12 0 0 0 15.998047 4 z M 15.978516 6 A 10 10 0 0 1 15.998047 6 A 10 10 0 0 1 25.998047 16 A 10 10 0 0 1 15.998047 26 A 10 10 0 0 1 5.9980469 16 A 10 10 0 0 1 15.978516 6 z " />
     <path
        id="rect1454"
-       style="opacity:1;fill:#fefefe;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:1;fill:#242424;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M 15 4 L 15 20.994141 C 13.7442 20.452531 11.786922 20.166377 10.232422 20.810547 C 7.6303219 21.887747 6.4663625 24.281187 7.2265625 26.117188 C 7.9867225 27.953688 10.385581 28.538737 12.988281 27.460938 C 15.041381 26.608648 16.03445 24.348172 16.03125 23.013672 L 16 9.9980469 C 16 9.9980469 21.099609 10.596251 21.099609 15.394531 C 21.099609 18.993231 19.9999 19.995241 17 22.994141 C 19.9999 21.194841 22.298828 18.993231 22.298828 15.394531 C 22.298828 10.596331 18.594984 8.4384344 17.646484 7.4902344 C 17.046504 6.8904544 16.298828 4.5996094 16.298828 4.5996094 L 15 4 z " />
   </g>
   <g
      id="22-22-cantata">
     <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471318;stroke-linecap:round"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:0.471318;stroke-linecap:round"
        id="rect990"
        width="21.994965"
        height="21.994965"
@@ -96,11 +96,11 @@
        style="color:#363636" />
     <path
        id="rect1848"
-       style="opacity:0.5;fill:#fefefe;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:0.5;fill:#242424;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M -11.001953 13 A 8 8 0 0 0 -19.001953 21 A 8 8 0 0 0 -11.001953 29 A 8 8 0 0 0 -3.0019531 21 A 8 8 0 0 0 -11.001953 13 z M -11.001953 15 A 6 6 0 0 1 -5.0019531 21 A 6 6 0 0 1 -11.001953 27 A 6 6 0 0 1 -17.001953 21 A 6 6 0 0 1 -11.001953 15 z " />
     <path
        id="rect1971"
-       style="opacity:1;fill:#fefefe;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+       style="opacity:1;fill:#242424;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M -12.001953 13 L -12.001953 24.044922 C -12.839133 23.683722 -13.811256 23.781338 -14.847656 24.210938 C -16.582456 24.929337 -17.577012 26.504116 -17.070312 27.728516 C -16.563533 28.953316 -14.744866 29.365314 -13.009766 28.646484 C -11.640966 28.078084 -10.802734 26.600937 -10.802734 25.710938 L -10.802734 17 C -10.802734 17 -7.6015625 17.399619 -7.6015625 20.599609 C -7.6015625 22.999609 -8.4023737 23.800781 -10.402344 25.800781 C -8.4023438 24.600781 -6.8027344 22.999609 -6.8027344 20.599609 C -6.8027344 17.399609 -9.2718969 15.960525 -9.9042969 15.328125 C -10.304287 14.928125 -10.802734 13.400391 -10.802734 13.400391 L -12.001953 13 z " />
   </g>
 </svg>
